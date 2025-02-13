@@ -124,6 +124,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-origi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuzendeGBR/AuzendeGBR/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AuzendeGBR/AuzendeGBR/output/github-contribution-grid-snake.svg">
 </picture>
-  
 </div>
 <br><br><br><br>
