@@ -37,7 +37,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img 
 align="left" 
     alt="HTML"
-    title="HTML" 
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
@@ -45,14 +45,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 <img 
 align="left" 
     alt="HTML"
-    title="HTML" 
+    title="JS" 
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img 
 align="left" 
     alt="HTML"
-    title="HTML" 
+    title="TYPESCRIPT" 
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -60,7 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 <img 
 align="left" 
     alt="HTML"
-    title="HTML" 
+    title="REACT" 
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
@@ -68,7 +68,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 <img 
 align="left" 
     alt="HTML"
-    title="HTML" 
+    title="GIT" 
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
@@ -76,7 +76,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg
 <img 
 align="left" 
     alt="HTML"
-    title="HTML" 
+    title="PYTHON" 
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -85,7 +85,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <img
 align="left" 
 alt="HTML"
-title="HTML" 
+title="NODEJS" 
 width="30px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
@@ -93,7 +93,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-pla
 <img
 align="left" 
     alt="HTML"
-    title="HTML" 
+    title="CANVA" 
     width="30px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
