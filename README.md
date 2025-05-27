@@ -49,21 +49,7 @@ align="left"
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img 
-align="left" 
-    alt="HTML"
-    title="TYPESCRIPT" 
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          
-<img 
-align="left" 
-    alt="HTML"
-    title="REACT" 
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
 
 <img 
 align="left" 
@@ -72,24 +58,7 @@ align="left"
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-    
-<img 
-align="left" 
-    alt="HTML"
-    title="PYTHON" 
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
 
-<img
-align="left" 
-alt="HTML"
-title="NODEJS" 
-width="30px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
-          
 <img
 align="left" 
     alt="HTML"
